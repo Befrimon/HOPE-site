@@ -333,7 +333,7 @@ h6,
   height: 117%;
   background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/banner.png") center top no-repeat;
   z-index: 0;
-  border-radius: 0 0 0 0;
+  border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
 }
 
